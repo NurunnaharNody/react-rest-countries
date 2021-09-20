@@ -1,0 +1,10 @@
+.travel{
+    background-color: rgba(141, 137, 137, 0.596);
+    color: rgb(4, 0, 7);
+    
+}
+.travel-container{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+}
